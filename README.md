@@ -1,5 +1,5 @@
-My implementation for the ijcai-19 paper: 
-"Joint Link Prediction and Network Alignment via Cross-graph Embedding"
+My implementation for the paper: 
+https://www.ijcai.org/Proceedings/2019/312
 
-Same results with Facebook-Twitter dataset in the paper when no links are removed. 
-TODO: Imporve the accuracy when random links are removed. 
+Same results with the paper when there is no noise.
+TODO: Imporve the accuracy when random noise is added 
